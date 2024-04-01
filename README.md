@@ -1,7 +1,3 @@
-Certainly! Below is a sample README for your EchoApi gem, designed to give users a comprehensive guide on how to install, configure, and use it effectively in their Ruby projects.
-
----
-
 # EchoApi
 
 EchoApi is a Ruby gem designed to simplify the process of mocking and simulating external API calls. Ideal for both development and testing environments, EchoApi enables developers to define customizable responses to API requests, helping to ensure that applications behave as expected without the need to make real network requests. With EchoApi, you can easily simulate various API scenarios including success responses, errors, and edge cases.
